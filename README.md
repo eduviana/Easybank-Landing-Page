@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/eduviana/Ecommerce-Product-Page)
-- Live Site URL: (https://ecommerce-product-page-rho-seven.vercel.app/)
+- Solution URL: (https://github.com/eduviana/Easybank-Landing-Page)
+- Live Site URL: (https://easybank-landing-page-phi-lyart.vercel.app/)
 
 
 ### Built with
